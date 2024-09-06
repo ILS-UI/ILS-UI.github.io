@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>315 FCE</p>
+    <p>Hezar Jerib Street, University of Isfahan</p>
+    <p>Isfahan, Iran</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -24,9 +24,11 @@ From the theoretical point of view, design and analysis of intelligent models an
 
 The mission of Intelligent and Learning Systems (ILS) Research Laboratory is to develop learning algorithms in intelligent systems from both of the theoretical and practical aspects. ILS Lab has currently been focused on development of novel learning methods with deep, multimodal, geometric, and data insufficiency compensating approaches.
 
-### Research Areas
+***
 
-- **Machine Learning**
-- **Computational Intelligence**
-- **Data Science**
-- **Image/Video/Signal/Speech/Text Analysis and Understanding**
+**ILS Research Areas**:
+
+1. Machine Learning
+2. Computational Intelligence
+3. Data Science
+4. Image/Video/Signal/Speech/Text Analysis and Understanding
