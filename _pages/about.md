@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://comp.ui.ac.ir/ai'>Artificial Intelligence Department</a>. <a href='http://fce.ui.ac.ir/'>Faculty of Computer Engineering</a>, <a href='https://www.ui.ac.ir/en'>University of Isfahan</a>
 
 profile:
   align: right
@@ -15,11 +15,18 @@ profile:
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+As a main objective in Artificial Intelligence, there are increasing need for building intelligent agents with learning capability, in many applications like Medical Diagnosis, Text/Web classification, Computer Vision, Voice-related Analysis and Applications, Spoken Language Understanding, Data Mining, Economical Predictions, Natural Language Processing/Understanding, Machine Translation, Autonomous Navigation, and Business Software. Recently, Intelligent Learning Systems, including Deep Learning models, have been successfully applied in most of the above mentioned applications, and achieved significant superior results.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+From the theoretical point of view, design and analysis of intelligent models and algorithms in Machine Learning field, have close relationships with several fundamental mathematical subjects like Linear/Non-Linear Optimization, Convergence Study of Iterative Numerical Methods, Estimation Theory, Euclidean and Riemannian Vector Spaces Geometry, Statistical Learning Theory, Stochastic Processes, Decision Theory, and Performance Evaluation of Predictive Models. From the other viewpoint, a prominent approach in implementing intelligent systems in real-world environments with high complexities, is applying Computational Intelligence algorithms. These algorithms typically work by avoiding the simplifying assumptions about the problem in hand, which are usual in machine learning algorithms, and provide possibilities to achieve more practical solutions.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+The mission of Intelligent and Learning Systems (ILS) Research Laboratory is to develop learning algorithms in intelligent systems from both of the theoretical and practical aspects. ILS Lab has currently been focused on development of novel learning methods with deep, multimodal, geometric, and data insufficiency compensating approaches.
+
+### Research Areas
+
+- **Machine Learning**
+- **Computational Intelligence**
+- **Data Science**
+- **Image/Video/Signal/Speech/Text Analysis and Understanding**
